@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина 5 работа.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\App.g.cs
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина 5 работа_MarkupCompile.cache
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина 5 работа_MarkupCompile.lref
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\bin\Debug\Буторина 5 работа.exe.config
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\bin\Debug\Буторина 5 работа.exe
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\bin\Debug\Буторина 5 работа.pdb
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина 5 работа.g.resources
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина_5_работа.Properties.Resources.resources
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина 5 работа.csproj.GenerateResource.cache
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина 5 работа.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина 5 работа.exe
+C:\Users\user\Desktop\21 Ири\Буторина 5 работа\obj\Debug\Буторина 5 работа.pdb
